@@ -49,7 +49,7 @@ Table of Contents:
     - [AI Agent Gateway](#ai-agent-gateway) (13)
     - [MCP Server Framework](#mcp-server-framework) (14)
 - [Multimodal AI & Vision Agents](#multimodal-ai-&-vision-agents)
-    - [Image Processing & Analysis Agents](#image-processing-&-analysis-agents) (4)
+    - [Image Processing & Analysis Agents](#image-processing-&-analysis-agents) (5)
     - [Video Processing Agents](#video-processing-agents) (6)
 - [Task Automation & Workflow Orchestration](#task-automation-&-workflow-orchestration)
     - [Job Automation Tools](#job-automation-tools) (11)
@@ -494,6 +494,7 @@ Table of Contents:
 - [11cafe/jaaz](https://github.com/11cafe/jaaz) (6722 TypeScript) - Jaaz is a local and free AI design agent that enables users to design, edit, and generate images, posters, and storyboards with advanced AI-powered tools and a creative canvas for fast iterations.
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) (8650 Python) - Ferret is an end-to-end multimodal large language model developed by Apple that excels in fine-grained referring and grounding tasks with open vocabulary, supported by a large-scale dataset and evaluation benchmark for research purposes.
 - [img2threejs/img2threejs](https://github.com/img2threejs/img2threejs) (19265 Python) - Agent skill for Claude Code and Codex that rebuilds the object in a reference image as procedural Three.js TypeScript code through a gated, vision-reviewed, token-efficient pipeline.
+- [orime-org/breatic](https://github.com/orime-org/breatic) (3 TypeScript) - Breatic is a collaborative creative workspace with shared documents, an AI media canvas, and a project-aware agent whose document changes people review before applying. Source-available under the Breatic license.
 - [THUDM/CogVLM](https://github.com/THUDM/CogVLM) (6746 Python) - CogVLM and CogAgent are state-of-the-art open-source visual language models designed for advanced image understanding, multi-turn dialogue, and GUI agent capabilities, achieving top performance on multiple cross-modal benchmarks.
 
 ### Video Processing Agents
